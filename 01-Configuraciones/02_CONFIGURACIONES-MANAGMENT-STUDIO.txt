@@ -1,3 +1,7 @@
 01 - ESTABLECER BASE DE DATOS POR DEFECTO DE USUARIO SA
 	- Security, Logins, SA PROPIEDADES.
 	- Default Database: seleccionar la BD con la que se desea trabajar
+
+02 - DESACTIVAR QUE LOS CAMBIOS GUARDADOS EN UNA TABLA REQUIERAN RE-CREACION
+	- Al intentar modifica un campo dentro de una tabla está nos da un error.
+	- Tools, option, designers, prevent saving changes
