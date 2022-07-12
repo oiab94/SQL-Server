@@ -1,0 +1,17 @@
+01 - CONFIGURACION DEL SERVER
+	* Features Selection
+		- Database Engine Services
+		- SQL Server Replication
+		- Full-Text and Semantics Extractions
+	* Instance root directory
+		- C:\Program Files\Microsoft SQL Server\
+
+02 - CONFIGURACIÒN DE INSTANCIA
+	* Nombre Instancia
+		- UDEMY_MASTER_SQL
+	* ID Instancia
+		- CURSO_MASTER_SQL
+
+03 - CONFIGURACION MOTOR BASE DE DATOS
+	* Mixed Mode
+	* pass: admin1234
