@@ -1,0 +1,3 @@
+01 - ESTABLECER BASE DE DATOS POR DEFECTO DE USUARIO SA
+	- Security, Logins, SA PROPIEDADES.
+	- Default Database: seleccionar la BD con la que se desea trabajar
