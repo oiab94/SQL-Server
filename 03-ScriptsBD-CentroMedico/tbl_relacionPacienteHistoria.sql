@@ -1,0 +1,9 @@
+CREATE TABLE tbl_PacienteHistoria(
+	-- DATOS DE LA TABLA
+	PacienteID INT NOT NULL,
+	HistoriaID INT NOT NULL,
+	MedicoID INT NOT NULL,
+
+	-- DEFINE LAS CLAVES PRIMARIAS
+	CONSTRAINT PK_PacienteHistoria PRIMARY KEY(PacienteID, HistoriaID, MedicoID)
+)
