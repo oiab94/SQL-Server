@@ -1,4 +1,8 @@
 # Master SQL Server
+Estudiaremos a fondo el uso del Motor de Base de Datos con su correcto uso y 
+aplicación de una manera optimizada, para mejorar la performance en Bases de 
+Datos con alto costo de procesamiento.
+
 ## Temas abordados en el curso:
 - Consultas 
 - Funciones
