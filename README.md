@@ -15,3 +15,4 @@ Datos con alto costo de procesamiento.
 
 ## Bibliografìa
 - [Generador de Datos](https://www.mockaroo.com/)
+- [Diagrama Entidad Realición](https://drive.google.com/file/d/1zQql4pQwwyPHQjD7Uy7L7xSDIOh69Ld0/view?usp=sharing)
